@@ -3,11 +3,11 @@
 #include "ArduinoHttpClient.h"
 
 // ssid information
-char ssid[] = "bort";
-char password[] = "scott370";
+char ssid[] = "network";
+char password[] = "passwd";
 
 // server we want to connect to
-const char serverAddress[] = "192.168.233.207";
+const char serverAddress[] = "server";
 int port = 8080;
 
 // create a client
